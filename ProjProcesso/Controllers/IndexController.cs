@@ -12,7 +12,6 @@ namespace ProjProcesso.Controllers
         [Route("calculajuros")]
         public string Get(double valorinicial, int meses)
         {
-            //Valor Final = Valor Inicial * (1 + juros) ^ Tempo
             var juros = 0.01;
             var valor = valorinicial * Math.Pow((1 + juros), meses);
             return string.Format("{0:N}", valor) ;
@@ -23,7 +22,7 @@ namespace ProjProcesso.Controllers
         [Route("showmethecode")]
         public string ShowMe()
         {
-            return "https://github.com/rogeriosoaresec";
+            return "https://github.com/rogeriosoaresec/ProjProcesso";
         }
     }
 }
