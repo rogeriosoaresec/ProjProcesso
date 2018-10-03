@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdNJrg2LaTEeRdkYSFMPhKgAAAAACAAAAAAAQZgAAAAEAACAAAAA4lHPa/0DyKrN7nsYip1CEXdsoU5Z24O//KaPGFjjsGAAAAAAOgAAAAAIAACAAAAC8w565mGtsoIrALBkGsp+N1cnM97PyFFDDO6DhOMzioIAAAABBrjvk/5M8mDa6tJWGVcPSglXcP+k6gKfbN6bQtvthagqYp25o1ZRBPuhiCuUwCF3AiJNy86uUkTkl4HeWQpqvt4I8hdsSk8yI59vwQyzJDJcp+tqQTfSf8yBqyXlsMiLmtFsT9YpgtNy5RtUUOuFTT/QBEO/XFOMX0MPz0kKzYUAAAABH++hAs4aOwoUSIxatcKtGZnTM/WAqCxPjxiuM4Cffpr4qPayHg8FzgdBVVX3CqaVlraIDLWpy+E1/AyFYmSKB</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-dm1-047.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>09/30/2018 20:45:16</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>09/30/2018 20:45:16</publishTime>
+    </File>
+    <File Include="dotnet-aspnet-codegenerator-design.dll">
+      <publishTime>12/22/2017 00:16:31</publishTime>
+    </File>
+    <File Include="Microsoft.CodeAnalysis.CSharp.Workspaces.dll">
+      <publishTime>12/22/2017 00:15:29</publishTime>
+    </File>
+    <File Include="Microsoft.CodeAnalysis.Workspaces.dll">
+      <publishTime>12/22/2017 00:15:42</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll">
+      <publishTime>12/22/2017 00:16:30</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Core.dll">
+      <publishTime>12/22/2017 00:16:31</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.dll">
+      <publishTime>12/22/2017 00:16:30</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll">
+      <publishTime>12/22/2017 00:16:32</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll">
+      <publishTime>12/22/2017 00:16:32</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll">
+      <publishTime>12/22/2017 00:16:33</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll">
+      <publishTime>12/22/2017 00:16:33</publishTime>
+    </File>
+    <File Include="NuGet.Frameworks.dll">
+      <publishTime>12/22/2017 00:17:00</publishTime>
+    </File>
+    <File Include="ProjProcesso.deps.json">
+      <publishTime>10/02/2018 01:23:09</publishTime>
+    </File>
+    <File Include="ProjProcesso.dll">
+      <publishTime>10/02/2018 01:23:07</publishTime>
+    </File>
+    <File Include="ProjProcesso.pdb">
+      <publishTime>10/02/2018 01:23:07</publishTime>
+    </File>
+    <File Include="ProjProcesso.PrecompiledViews.dll">
+      <publishTime>10/02/2018 01:23:08</publishTime>
+    </File>
+    <File Include="ProjProcesso.PrecompiledViews.pdb">
+      <publishTime>10/02/2018 01:23:08</publishTime>
+    </File>
+    <File Include="ProjProcesso.runtimeconfig.json">
+      <publishTime>10/02/2018 01:23:09</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.dll">
+      <publishTime>07/06/2018 17:09:06</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>07/06/2018 17:09:02</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>07/06/2018 17:09:02</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>07/06/2018 17:09:04</publishTime>
+    </File>
+    <File Include="System.Composition.AttributedModel.dll">
+      <publishTime>12/22/2017 00:15:53</publishTime>
+    </File>
+    <File Include="System.Composition.Convention.dll">
+      <publishTime>12/22/2017 00:15:53</publishTime>
+    </File>
+    <File Include="System.Composition.Hosting.dll">
+      <publishTime>12/22/2017 00:15:54</publishTime>
+    </File>
+    <File Include="System.Composition.Runtime.dll">
+      <publishTime>12/22/2017 00:15:54</publishTime>
+    </File>
+    <File Include="System.Composition.TypedParts.dll">
+      <publishTime>12/22/2017 00:15:55</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>10/02/2018 01:23:09</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

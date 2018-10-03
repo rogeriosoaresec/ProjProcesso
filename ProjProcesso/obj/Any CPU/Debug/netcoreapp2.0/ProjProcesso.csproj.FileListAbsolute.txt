@@ -1,0 +1,10 @@
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcesso\bin\Any CPU\Debug\netcoreapp2.0\ProjProcesso.deps.json
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcesso\bin\Any CPU\Debug\netcoreapp2.0\ProjProcesso.runtimeconfig.json
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcesso\bin\Any CPU\Debug\netcoreapp2.0\ProjProcesso.runtimeconfig.dev.json
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcesso\bin\Any CPU\Debug\netcoreapp2.0\ProjProcesso.dll
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcesso\bin\Any CPU\Debug\netcoreapp2.0\ProjProcesso.pdb
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcesso\obj\Any CPU\Debug\netcoreapp2.0\ProjProcesso.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcesso\obj\Any CPU\Debug\netcoreapp2.0\ProjProcesso.AssemblyInfoInputs.cache
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcesso\obj\Any CPU\Debug\netcoreapp2.0\ProjProcesso.AssemblyInfo.cs
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcesso\obj\Any CPU\Debug\netcoreapp2.0\ProjProcesso.dll
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcesso\obj\Any CPU\Debug\netcoreapp2.0\ProjProcesso.pdb

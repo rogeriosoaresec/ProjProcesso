@@ -1,0 +1,17 @@
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcessoTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcessoTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcessoTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcessoTest\bin\Debug\netcoreapp2.0\ProjProcessoTest.deps.json
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcessoTest\bin\Debug\netcoreapp2.0\ProjProcessoTest.runtimeconfig.json
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcessoTest\bin\Debug\netcoreapp2.0\ProjProcessoTest.runtimeconfig.dev.json
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcessoTest\bin\Debug\netcoreapp2.0\ProjProcessoTest.dll
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcessoTest\bin\Debug\netcoreapp2.0\ProjProcessoTest.pdb
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcessoTest\bin\Debug\netcoreapp2.0\ProjProcesso.dll
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcessoTest\bin\Debug\netcoreapp2.0\ProjProcesso.pdb
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcessoTest\bin\Debug\netcoreapp2.0\ProjProcesso.xml
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcessoTest\obj\Debug\netcoreapp2.0\ProjProcessoTest.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcessoTest\obj\Debug\netcoreapp2.0\ProjProcessoTest.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcessoTest\obj\Debug\netcoreapp2.0\ProjProcessoTest.AssemblyInfoInputs.cache
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcessoTest\obj\Debug\netcoreapp2.0\ProjProcessoTest.AssemblyInfo.cs
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcessoTest\obj\Debug\netcoreapp2.0\ProjProcessoTest.dll
+C:\Users\Developer\Desktop\ProjProcesso\ProjProcesso\ProjProcessoTest\obj\Debug\netcoreapp2.0\ProjProcessoTest.pdb
